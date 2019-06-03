@@ -1,3 +1,11 @@
+Deployment Steps
+
+1. create .env file from env-sample.txt (just save env-sample.txt as .env)
+2. npm install
+3. npm start
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
