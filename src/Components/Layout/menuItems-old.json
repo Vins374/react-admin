@@ -1,0 +1,61 @@
+{
+    "data" : [
+      {
+          "name": "Dashboard",
+          "icon": "fa fa-dashboard",
+          "url": "/tadmin/dashboard",
+          "read": "on",
+          "edit": "on",
+          "delete": "on"
+      },
+      {
+        "name": "Customers",
+        "icon": "fa fa-users",
+        "url": "/tadmin/customers",
+        "read": "on",
+        "edit": "on",
+        "delete": "on"
+      },
+      {
+        "name": "System",
+        "icon": "fa fa-gears",
+        "children": [
+          {
+            "name": "Menu Items",
+            "url": "/tadmin/system/menu-items",
+            "read": "on",
+            "edit": "on",
+            "delete": "on"
+          },
+          {
+            "name": "Settings",
+            "url": "/tadmin/system/settings",
+            "read": "on",
+            "edit": "on",
+            "delete": "on"
+          }
+        ]
+      },
+      {
+        "name": "User Administration",
+        "icon": "fa fa-user",
+        "children": [
+          {
+            "name": "Roles",
+            "url": "/tadmin/user-administration/roles",
+            "read": "on",
+            "edit": "on",
+            "delete": "on"
+          },
+          {
+            "name": "Users",
+            "url": "/tadmin/user-administration/users",
+            "read": "on",
+            "edit": "on",
+            "delete": "on"
+          }
+        ]
+      }
+    ]
+  }
+  

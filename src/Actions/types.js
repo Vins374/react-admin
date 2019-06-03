@@ -1,0 +1,56 @@
+export const USER_LOGIN_BEGIN = 'USER_LOGIN_BEGIN';
+export const USER_LOGIN_ERROR = 'USER_LOGIN_ERROR';
+export const USER_LOGIN = 'USER_LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const USER_REGISTER_BEGIN = 'USER_REGISTER_BEGIN';
+export const USER_REGISTER_ERROR = 'USER_REGISTER_ERROR';
+export const USER_REGISTER = 'USER_REGISTER';
+
+export const SETTINGS_BEGIN = 'SETTINGS_BEGIN';
+export const SETTINGS_ERROR = 'SETTINGS_ERROR';
+export const SETTINGS = 'SETTINGS';
+export const CREATE_SETTINGS = 'CREATE_SETTINGS';
+export const EDIT_SETTINGS = 'EDIT_SETTINGS';
+export const DELETE_SETTINGS = 'DELETE_SETTINGS';
+export const SETTINGS_ITEM = 'SETTINGS_ITEM';
+
+export const MENU_ITEMS_BEGIN = 'MENU_ITEMS_BEGIN';
+export const MENU_ITEMS_ERROR = 'MENU_ITEMS_ERROR';
+export const MENU_ITEMS = 'MENU_ITEMS';
+export const CREATE_MENU_ITEMS = 'CREATE_MENU_ITEMS';
+export const EDIT_MENU_ITEMS = 'EDIT_MENU_ITEMS';
+export const DELETE_MENU_ITEMS = 'DELETE_MENU_ITEMS';
+export const GET_MENU_ITEM = 'GET_MENU_ITEM';
+export const GET_MAIN_MENUS = 'GET_MAIN_MENUS';
+
+export const ROLES_BEGIN = 'ROLES_BEGIN';
+export const ROLES_ERROR = 'ROLES_ERROR';
+export const ROLES = 'ROLES';
+export const CREATE_ROLES = 'CREATE_ROLES';
+export const EDIT_ROLES = 'EDIT_ROLES';
+export const DELETE_ROLES = 'DELETE_ROLES';
+export const GET_ROLES = 'GET_ROLES';
+export const GET_ALL_MENUS = 'GET_ALL_MENUS';
+export const GET_ALL_ROLES = 'GET_ALL_ROLES';
+
+export const USERS_BEGIN = 'USERS_BEGIN';
+export const USERS_ERROR = 'USERS_ERROR';
+export const USERS = 'USERS';
+export const CREATE_USERS = 'CREATE_USERS';
+export const EDIT_USERS = 'EDIT_USERS';
+export const DELETE_USERS = 'DELETE_USERS';
+export const USERS_ITEM = 'USERS_ITEM';
+
+export const USERS_LOG_BEGIN = 'USERS_BEGIN';
+export const USERS_LOG_ERROR = 'USERS_ERROR';
+export const USERS_LOG = 'USERS';
+export const USERS_LOG_DELETE = 'USERS_LOG_DELETE';
+
+export const PROFILE_BEGIN = 'PROFILE_BEGIN';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const PROFILE_UPDATE = 'PROFILE_UPDATE';
+export const PROFILE_RESET_PASSWORD = 'PROFILE_RESET_PASSWORD';
+export const PROFILE_GET = 'PROFILE_GET';
+
+export const UPLOAD_IMAGE = 'UPLOAD_IMAGE';
