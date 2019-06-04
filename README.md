@@ -10,3 +10,11 @@ username : demo
 password : demo
 
 for build use - npm run build
+
+
+### Features
+
+- Basic admin using react and material ui 
+- User role base authentication and authorization 
+- Dynamic side menus
+- Backed by laravel api server
