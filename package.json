@@ -9,7 +9,7 @@
     "dotenv": "^7.0.0",
     "font-awesome": "^4.7.0",
     "history": "^4.9.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-loader-spinner": "^2.3.0",
